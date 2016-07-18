@@ -1,4 +1,4 @@
-[![PCA9531](PCA9531_I2CPWM.png)](https://www.controleverything.com/products)
+[![PCA9531](PCA9531_I2CPWM.png)](https://www.controleverything.com/content/Open-Collectors?sku=PCA9531_I2CPWM#tabs-0-product_tabset-2)
 # PCA9531
 PCA9531 8-bit I2C-bus LED dimmer
 
@@ -6,7 +6,7 @@ The PCA9531 is a 8-bit I2C-bus and SMBus I/O expander optimized for dimming LEDs
 
 This Device is available from ControlEverything.com [SKU: PCA9531_I2CPWM]
 
-https://www.controleverything.com/products
+https://www.controleverything.com/content/Open-Collectors?sku=PCA9531_I2CPWM#tabs-0-product_tabset-2
 
 This Sample code can be used with Raspberry pi, Arduino, Particle and Beaglebone Black.
 
