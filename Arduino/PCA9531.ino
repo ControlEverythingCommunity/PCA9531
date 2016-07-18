@@ -2,7 +2,7 @@
 // Use it any way you want, profit or free, provided it fits in the licenses of its associated works.
 // PCA9531
 // This code is designed to work with the PCA9531_I2CPWM I2C Mini Module available from ControlEverything.com.
-// https://www.controleverything.com/products
+// https://www.controleverything.com/content/Open-Collectors?sku=PCA9531_I2CPWM#tabs-0-product_tabset-2
 
 #include<Wire.h>
 
@@ -57,4 +57,3 @@ void loop()
   Wire.endTransmission();
   delay(300);
 }
-
