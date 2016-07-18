@@ -20,9 +20,9 @@ bus.write_byte_data(0x60, 0x01, 0x4B)
 bus.write_byte_data(0x60, 0x02, 0x80)
 # PCA9531 address, 0x60(96)
 # Select LED selector register, 0x05(05)
-#		0xFF(255)	Output set to Blinking at PWM0
+#		0xAA(170)	Output set to Blinking at PWM0
 bus.write_byte_data(0x60, 0x05, 0xAA)
 # PCA9531 address, 0x60(96)
 # Select LED selector register, 0x06(06)
-#		0xFF(255)	Output set to Blinking at PWM0
+#		0xAA(170)	Output set to Blinking at PWM0
 bus.write_byte_data(0x60, 0x06, 0xAA)
